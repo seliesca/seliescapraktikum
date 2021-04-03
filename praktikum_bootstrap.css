@@ -1,0 +1,18 @@
+.hero-banner{
+
+    background-image: url('https://assets-pergikuliner.com/-JFmRXC1vAhCmY_E3WIGzlojYxQ=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/2022620/picture-1600398999.JPG');
+
+    background-size: cover;
+
+    height: 500px;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+}
+
+
+.footer{
+
+    height: 50px;
+}  
